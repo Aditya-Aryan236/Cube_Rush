@@ -1,0 +1,2 @@
+# Cube_Rush
+It' a 3d game where player can control a cube and move it through the obstacles to the target location as the cube moves  the score displayed on the screen keeps increasing. if the cube hits an obstacle or falls of the ledge down to an specific height the level restarts after a given time. It's a three level game where there is main menu and an ending screen and after completion of each level a level ending message is flashed on the screen and the next level is loaded. 
